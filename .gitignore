@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data files - exclude by folder
+data/
+
+# Docs files - exclude by folder
+docs/
+
+# Alternatively, exclude by file type (uncomment if needed)
+# *.csv
+# *.parquet
+# *.xlsx
+# *.docx
+# *.pdf
